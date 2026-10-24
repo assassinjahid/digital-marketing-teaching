@@ -8,6 +8,10 @@ I authored the original slide decks, lesson notes, and teaching materials used i
 
 [About me](https://github.com/assassinjahid) · [LinkedIn](https://www.linkedin.com/in/jahid-akash/) · [Practical marketing toolkit](https://github.com/assassinjahid/marketing-toolkit)
 
+## Featured lesson sample
+
+[Instagram Marketing lesson sample](lessons/instagram-marketing.md) — a selected summary based on my original 17-slide deck, with a new practice activity and assessment rubric.
+
 ## Teaching focus
 
 My classes were for adults eager to learn digital marketing. Many learners were already professionals. My work combined subject explanations, practical demonstrations, original presentation materials, and mentoring.
