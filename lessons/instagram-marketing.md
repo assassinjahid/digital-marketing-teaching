@@ -2,7 +2,7 @@
 
 **Author and instructor: Md Jahid Hasan**
 
-This selected lesson summary is based on my original 17-slide teaching deck, Instagram Marketing, created for adult digital marketing learners in 2025. The opening slide identifies the subject as organic Instagram marketing and names me as the author.
+This selected lesson summary is based on my original 17-slide teaching deck, Instagram Marketing, used for adult digital marketing learners. The opening slide identifies the subject as organic Instagram marketing and names me as the author.
 
 This portfolio edition summarises selected sections and adds a new practice task. It is not a complete transcript of the recording or an unchanged reproduction of the deck.
 
@@ -74,9 +74,11 @@ Branded accounts, relevant searches, and competitor content can provide ideas fo
 
 ## Source and revision note
 
-**Original source:** Instagram Marketing.pptx, 17 slides, Md Jahid Hasan, teaching archive dated January 2025.
+**Original source:** Instagram Marketing.pptx, 17 slides, Md Jahid Hasan, 2025 teaching archive. The exact creation date of the deck has not been verified.
 
 **Portfolio summary prepared:** 24 October 2026.
+
+**Source audit:** 25 October 2026. Slide count, author name and the selected slide-to-topic mapping were checked against the original file.
 
 This selected edition excludes the original deck's fixed posting and hashtag quantities, follow/unfollow tactic, platform audience statistics, and percentage-based claim about modifying third-party media. Those statements are not endorsed by this portfolio summary. The full historical deck remains in the archive pending revision.
 
